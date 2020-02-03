@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("Roboto-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("Roboto-Light.ttf") format("truetype");
+  font-weight: lighter;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("Roboto-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("Roboto-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("Roboto-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+    font-family: "Roboto-Italic";
+    src: url("Roboto-Italic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Archimandrite";
+  src: url("10432.otf") format("truetype");
+}
+@font-face {
+  font-family: "Minion-Pro-Bold";
+  src: url("MinionPro-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "amiri";
+  src: url("Amiri-Bold.ttf") format("truetype");
+}
